@@ -115,3 +115,27 @@ where redistribution is transparent, algorithmic, and community-driven.
 Different economic networks and supply chains also need their own
 *independent currencies*, enabling a multi-currency ecosystem
 instead of one centrally planned system.
+
+#pagebreak()
+
+#text(fill: rgb("#F44336"))[Inflationary Currency Creates Inequality by Design]
+
+Inflation does not affect everyone equally.
+It systematically transfers wealth *from the bottom to the top*.
+
+Banks and large asset holders receive newly issued money first,
+before prices rise — this is called the *Cantillon Effect*.
+By the time new money reaches ordinary people, prices of assets,
+land, rent, stocks, and commodities have already increased.
+
+This mechanism lets the financial elite gain purchasing power,
+while the majority loses it.
+
+#text( fill: rgb("#FFCDD2"))[
+- The wealthiest 10% own *75% of the world’s wealth*
+- The least wealthy 50% own just *2%*
+]
+
+Inflation amplifies this gap every year by pumping new money
+into banks, corporations, and investors first —
+while devaluing the wages and savings of everyone else.
